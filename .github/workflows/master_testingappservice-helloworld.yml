@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'TestingAppService-HelloWorld'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA833A79AE0146AF9E13A49FC175C5F1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED04FAC2E1AF45F29D3748315866DA01 }}
           package: .
